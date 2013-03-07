@@ -1,0 +1,68 @@
+body
+{
+	margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #fff;
+	background: #000;
+}
+
+iframe { border: none; }
+
+.spacer {clear:both; height:2px;}
+
+.form_user_menu
+{
+    padding-top: 1px;
+    padding-right: 10px;
+}
+
+#fixedtable
+{
+    padding: 5px;
+    border: 1px solid black;
+    width: 100%;
+    table-layout: fixed;
+}
+#fixedtable td
+{
+    padding: 5px;
+    border: 1px solid black;
+    width: 16%;
+}
+#fixedtable td div 
+{
+    height: 250px;
+    overflow: hidden;
+}
+
+
+.refresh
+{
+	font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #fff;
+}
+
+.press
+{
+	font-family: Arial, Helvetica, sans-serif; font-size: 40pt; color: #fff;
+}
+
+.press_down
+{
+	font-family: Arial, Helvetica, sans-serif; font-size: 40pt; color: red;
+}
+
+.down_time
+{
+	font-family: Arial, Helvetica, sans-serif; font-size: 20pt; color: red;
+}
+
+.desc
+{
+	font-family: Arial, Helvetica, sans-serif; font-size: 18pt; color: #fff;
+}
+
+.cycles
+{
+	font-family: Arial, Helvetica, sans-serif; font-size: 15pt; color: #fff;
+}
+
+
