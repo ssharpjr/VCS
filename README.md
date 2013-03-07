@@ -3,4 +3,4 @@ VCS
 
 Visual Control System
 
-This is a PHP, MySQL, and Arduino project for manufacturing notifications.
+This is a manufacturing notification system written in PHP and Arduino-ese (C/C++).
