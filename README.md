@@ -4,3 +4,5 @@ VCS
 Visual Control System
 
 This is a manufacturing notification system written in PHP and Arduino-ese (C/C++).
+
+Currently Status: Not Active.
