@@ -38,12 +38,8 @@ long interval = 1000;
 
 
 // WiFi Settings
-//char ssid[] = "TPIWAP";
-//char key[] = "7D98B2D509";
-//char ssid[] = "101";
-//char key[] = "94618f48467dd92b6b2e6520d3";
-char ssid[] = "IC2B4UC1";
-char key[] = "N3tM45t3R!2010";
+char ssid[] = "SSID";
+char key[] = "PassKey";
 int keyIndex = 1;
 int status = WL_IDLE_STATUS;
 
